@@ -1,6 +1,6 @@
 # ✅ Task Tracker
 
-A simple task management app built with vanilla HTML, CSS, and JavaScript — no frameworks, no build tools.
+A simple task management app built with vanilla HTML, CSS, and JavaScript. No frameworks, no build tools.
 
 ## 📌 About
 
